@@ -10,3 +10,5 @@ Leer libros
 
 Mi meta:
 Lograr aprender y dominar HTML, CSS y JavaScript
+
+Eres una persona excelente y muy amable
